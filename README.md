@@ -18,6 +18,15 @@ decision-making in large-scale AI annotation projects.
 - Technical Program Managers working with AI/ML pipelines
 - Data-driven PMs collaborating with engineering and operations teams
 
+## Projects
+- Delay Risk Analysis  
+  *Business Question:* What factors are most strongly associated with
+  delivery delays in AI annotation projects?
+
+- Annotation Throughput Analysis  
+  *Business Question:* Can declining throughput be detected early
+  before delivery delays occur?
+
 ## Notes
 All data used in this repository is synthetic and created solely for
 demonstration and portfolio purposes.

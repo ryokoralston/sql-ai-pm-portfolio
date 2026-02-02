@@ -22,7 +22,7 @@ decision-making in large-scale AI annotation projects.
 All data used in this repository is synthetic and created solely for
 demonstration and portfolio purposes.
 
-## Start Here (Executive Summary)
+## Executive Summary
 For a concise overview of how SQL is used to analyze delay risks in
 AI annotation projects start with the Executive Summary below:
 

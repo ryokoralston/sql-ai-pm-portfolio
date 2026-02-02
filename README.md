@@ -1,2 +1,4 @@
-# sql-ai-pm-portfolio
-SQL Portfolio for AI Project Manager
+# SQL Portfolio for AI Project Management
+
+This repository demonstrates how SQL can be used to analyze
+delay risks and operational metrics in AI annotation projects.

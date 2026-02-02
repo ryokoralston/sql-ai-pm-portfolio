@@ -30,6 +30,9 @@ decision-making in large-scale AI annotation projects.
 - SLA Compliance Analysis  
   *Business Question:* Are annotation tasks completed within agreed SLA timelines, and how does SLA compliance relate to delivery risk?
 
+- Quality Drift Analysis  
+  *Business Question:* Are quality issues becoming unstable over time, indicating annotation guideline drift or operational risk?
+
 
 ## Notes
 All data used in this repository is synthetic and created solely for

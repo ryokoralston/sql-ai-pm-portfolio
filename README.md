@@ -27,6 +27,10 @@ decision-making in large-scale AI annotation projects.
   *Business Question:* Can declining throughput be detected early
   before delivery delays occur?
 
+- SLA Compliance Analysis  
+  *Business Question:* Are annotation tasks completed within agreed SLA timelines, and how does SLA compliance relate to delivery risk?
+
+
 ## Notes
 All data used in this repository is synthetic and created solely for
 demonstration and portfolio purposes.

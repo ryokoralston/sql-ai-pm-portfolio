@@ -1,4 +1,4 @@
-# AI Annotation Project – Delay Risk Analysis
+# AI Annotation Project – Throughput Trend Analysis
 
 ## Executive Summary
 This analysis evaluates annotation throughput trends to identify

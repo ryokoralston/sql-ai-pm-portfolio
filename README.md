@@ -12,7 +12,7 @@ For a concise overview of how SQL is used to analyze delay risks in
 AI annotation projects start with the Executive Summary below:
 
 ➡️ [AI Annotation Project – Delay Risk Analysis (Executive Summary)](
-01_annotation_delay_risk/explanation.md#executive-summary
+01_annotation_delay_risk/explanation.md#executive-summary)
 
 ## How to Read This Portfolio (30-Second Guide)
 This portfolio is designed to demonstrate how an AI Annotation Project Manager
